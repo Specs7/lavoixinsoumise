@@ -2,6 +2,7 @@
 title: "Vigilance Numérique : Ce que vous devez savoir"
 description: "NP"
 pubDate: "05 06 2025"
+heroImage: "NP"
 ---
 
 Je vous écris pour vous alerter sur les dangers du numérique. 
